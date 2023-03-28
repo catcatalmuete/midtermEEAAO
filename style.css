@@ -232,7 +232,7 @@ body, html {
   left: 124%
 }
 
-.about .line2 {
+#about .line2 {
   position: absolute;
   top: 17%;
   left: 73%;
