@@ -228,8 +228,8 @@ body, html {
 
 #about .circle {
   position: absolute;
-  top: 35%;
-  left: 124%
+  top: 30%;
+  left: 96%;
 }
 
 #about .line2 {
@@ -251,12 +251,13 @@ body, html {
 }
 
 .plot-para {
-  padding: 0px 45% 0px 5%;
+  padding: 5% 45% 5% 5%;
   font-family: 'Roboto', sans-serif;
   font-size: 18px;
   text-align: justify;
   line-height: 25pt;
   color: rgba(255,255,255,0.7);
+  overflow: auto;
 }
 
 .plot-para:hover { 
